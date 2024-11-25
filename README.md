@@ -9,7 +9,7 @@
 - После чего смотрим, какое название у вкладки в скрипте «Window Spy»
 <img src="https://github.com/f1eshDK/F5/blob/main/screenshots/WinSpy_1.png">
 - И заменяем в коде «Новая вкладка — Google Chrome» на полученное название
-<img src="https://github.com/f1eshDK/F5/blob/main/screenshots/WinSpy_1.png">
+<img src="https://github.com/f1eshDK/F5/blob/main/screenshots/code_name.png">
 
 3. Чтобы изменить время, через сколько будет обновляться страница, указываем нужное значение в миллисекундах (1000 — это 1 секунда) в «Sleep».
 <img src="https://github.com/f1eshDK/F5/blob/main/screenshots/code_sleep.png">
